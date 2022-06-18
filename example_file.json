@@ -1,0 +1,3 @@
+{
+    "data_source": "s3://sagemaker-us-east-1-631450739534/sagemaker/DEMO-pytorch-cnn-cifar10/data/example_file.json"
+}
